@@ -1,11 +1,11 @@
 {
-    "name": "screen_time_checkup",
-    "short_name": "screen_time_checkup",
+    "name": "Screen Time Checkup",
+    "short_name": "STC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Stay aware of how you spend your screen time.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
