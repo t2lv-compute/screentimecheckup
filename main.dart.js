@@ -31474,7 +31474,7 @@ $S:3}
 A.aJ8.prototype={
 $1(a){var s=A.e_().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/6c0baaebf70e0148f485f27d5616b3d3382da7bf/":s)+a},
+return(s==null?"canvaskit/":s)+a},
 $S:72}
 A.Pc.prototype={
 a22(){var s=this.alw(),r=$.br.bG().ImageFilter.MakeColorFilter(s,null)
